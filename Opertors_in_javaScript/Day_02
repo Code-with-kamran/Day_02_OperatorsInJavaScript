@@ -1,0 +1,19 @@
+𝐃𝐚𝐲 𝟐: 𝟑𝟎 𝐃𝐚𝐲𝐬 𝐨𝐟 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 - 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐓𝐚𝐤𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥!
+
+Yesterday, we explored the building blocks of JavaScript: variables and data types. Today, we're diving into operators, the essential tools that manipulate and control our data!
+
+𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 are special symbol  that perform various operations on operand like variables and values. JavaScript offers a robust set of operators, including:
+
+🔢 𝐀𝐫𝐢𝐭𝐡𝐦𝐞𝐭𝐢𝐜 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 (+, -, *, /, %): Perform basic mathematical calculations.
+
+⚖️ 𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐬𝐨𝐧 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 (==, !=, <, >, <=, >=): Compare values and return true or false based on the comparison.
+
+🔗 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 (&&, ||, !): Combine conditions for complex logic (AND, OR, NOT).
+
+✍️ 𝐀𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 (=, +=, -=, *=, /=): Assign values and perform calculations simultaneously (e.g., x += 5 is equivalent to x = x + 5).
+
+🔄 𝐈𝐧𝐜𝐫𝐞𝐦𝐞𝐧𝐭/𝐃𝐞𝐜𝐫𝐞𝐦𝐞𝐧t Operators (++, --): Increase or decrease a variable's value by 1 (pre-increment/decrement vs. post-increment/decrement have subtle differences).
+
+Understanding these operators is crucial for controlling the flow of your JavaScript code. Keep experimenting and practicing to master their use!
+
+#JavaScript #WebDevelopment #CodingJourney #LearnToCode
